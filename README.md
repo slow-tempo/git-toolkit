@@ -28,7 +28,7 @@ Each skill documents its fallback chain instead of pretending the API works.
 ## Install
 
 ```bash
-npx skills add <this-repo>
+npx skills add slow-tempo/git-toolkit
 ```
 
 or copy `skills/*/` into your skills directory (`~/.agents/skills/`,
